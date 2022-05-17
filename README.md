@@ -6,8 +6,8 @@
 
 
 🎓 Graduação em Ciência da Computação - Universidade de Fortaleza (UNIFOR) \
-🎓 Especializando em Estatística Aplicada - Universidade Federal de Minas Gerais (UFMG) \
-🎓 Mestrando em Modelagem e Métodos Quantitativos - Universidade Federal do Ceará (UFC)
+🎓 Especialização em Estatística Aplicada - Universidade Federal de Minas Gerais (UFMG) \
+🎓 Mestrado em Modelagem e Métodos Quantitativos - Universidade Federal do Ceará (UFC)
 
 <div align="center">
   <a href="https://github.com/josevictor"></a>
