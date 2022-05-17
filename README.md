@@ -20,7 +20,7 @@
   <img align="center" alt="Julia" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"/> ◽
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/> ◽ 
   <img align="center" alt="NetCore" height="40" width="40" src="https://github.com/josevictor/josevictor/blob/main/netcore-logo.png"/> ◽
-  <img align="center" alt="CPLEX" height="40" width="40" src="https://downloadly.net/wp-content/uploads/2020/03/ILOG-CPLEX.png"/> ◽
+  <img align="center" alt="CPLEX" height="40" width="40" src="https://github.com/josevictor/josevictor/blob/main/cplex.png"/> ◽
   <img align="center" alt="Gurobi" height="40" width="40" src="https://github.com/josevictor/josevictor/blob/main/gurobi-logo.png?raw=true"/> ◽
   <img align="center" alt="CoinOR" height="50" width="50" src="https://www.coin-or.org/images/logo/COIN-OR_2c.png"/> ◽
   <img align="center" alt="Numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/> ◽
